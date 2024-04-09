@@ -1,2 +1,2 @@
-# coursera-project1
+# coursera-projects
 Its a markdown file in this repository.
